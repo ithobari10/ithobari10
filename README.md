@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ithobari10
 - 👀 I’m interested in Web application development and it's infrastructure
 - 🌱 I’m currently learning Frontend Development. It's react.js specifically
-- 💞️ I’m looking to collaborate on making software that can touch small medium bisuness
+- 💞️ I’m looking to collaborate on making software that can touch small medium business
 - 📫 How to reach me : Just mail me ibnu.it10@gmail.com
 
 <!---
